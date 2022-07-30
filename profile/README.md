@@ -9,13 +9,15 @@ We are uniquely positioned in the tabletop game industry to provide novel experi
 
 ## Open source and communities of collaboration
 
-Open source software is core to our strategy of creating communities that work and play together. Collaborating on free open source code enables us to share our work with colleagues and hobbyists, and enriches the wider community with resources that create their
+Free open source software is core to our strategy of creating communities that work and play together. Collaborating on free open source code enables us to share our work with colleagues and hobbyists, and enriches the wider community with resources to realize their creative vision.
+
+VTT RED's team members pay special attention to the needs of maintainers of forks, and downstream consumers such as add-on module coders, so that we're certain we've considered the community's wishes before taking undue action. Community members have applauded us for our transparency and our eagerness to incorporate their feedback.
 
 ### How we use open source
 
 Source code is shared freely and openly whenever possible such that we can benefit from a wider community of collaborators. To be open, source code is reconfigurable and redistributable by anyone for any purpose. To be free, all modifications and re-distributions must also be freely and openly shared. In this sense, the ultimate freedom is given to the user of free software, while the creators give up many of the rights given to them from copyright law in order to preserve user freedom.
 
-Our publishing partners share in our vision for free open source software, and in many cases make portions of their games available as open game content. We work with publishers directly to ensure their game content supported by our open source code is always playable on future updates to the proprietary VTT core software and the open source game code.
+Our publishing partners share in our vision for free open source software, and in many cases make portions of their games available as open game content. We work with publishers directly to ensure their game content is supported by our open source code, and that it remains playable on future updates to the proprietary VTT core software and the open source game code.
 
 ### An unusual promise to support the open gaming community
 
@@ -24,4 +26,5 @@ In August 2022, VTT RED began their Open Gaming Fund. Funded from 1% of VTT RED'
 # Who is VTT RED
 
 Anthony Ronda
-[@anthonyronda](https://github.com/anthonyronda) - Anthony has been active in the Foundry VTT community from the beginning. His unique insights from volunteering as an /r/FoundryVTT subreddit moderator, and helping to run the League of Extraordinary Foundry VTT Developers, makes his wealth of experience and knowledge in VTTs unmatched in the professional content creation space.
+
+[@anthonyronda](https://github.com/anthonyronda) - Anthony has been active in the Foundry VTT community from the beginning. His unique insights from volunteering as /r/FoundryVTT subreddit moderator, and helping to run the League of Extraordinary Foundry VTT Developers, makes his wealth of experience and knowledge in VTTs unmatched in the professional content creation space. After taking over Old-School Essentials maintainenance for Foundry VTT, he personally reached out to the remnants of the community to reinvigorate their enthusiasm for the project.
