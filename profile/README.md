@@ -1,3 +1,6 @@
+![VTT RED banner](https://user-images.githubusercontent.com/1410433/181913372-54ea403a-724f-4757-af14-b6524c29f606.jpg)
+
+
 # Our dedication to social play over the web
 
 Enabling new modes of connection with friends and family is a worthy pursuit, which is why **VTT RED** dedicates ourselves to social play over the web.
