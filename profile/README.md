@@ -21,10 +21,10 @@ Our publishing partners share in our vision for free open source software, and i
 
 ### An unusual promise to support the open gaming community
 
-In August 2022, VTT RED began their Open Gaming Fund. Funded from 1% of VTT RED's revenue (*revenue,* not profit), VTT RED maintains a fund for members of the TTRPG coding community at risk of severe hardship. All members of the game coding or game design communities who openly license their work are eligible with or without applying directly to the fund beforehand. Find out more at [vtt.red/opengamingfund](https://vtt.red/opengamingfund)
+In July 2023, VTT RED began their Open Gaming Fund. Funded from 1% of VTT RED's revenue (*revenue,* not profit), VTT RED maintains a fund for members of the TTRPG coding community at risk of severe hardship. All members of the game coding or game design communities who openly license their work are eligible with or without applying directly to the fund beforehand. Find out more at [vtt.red/opengamingfund](https://vtt.red/opengamingfund)
 
 # Who is VTT RED
 
 Anthony Ronda
 
-[@anthonyronda](https://github.com/anthonyronda) - Anthony has been active in the Foundry VTT community from the beginning. His unique insights from volunteering as /r/FoundryVTT subreddit moderator, and helping to run the League of Extraordinary Foundry VTT Developers, makes his wealth of experience and knowledge in VTTs unmatched in the professional content creation space. After taking over Old-School Essentials maintainenance for Foundry VTT, he personally reached out to the remnants of the community to reinvigorate their enthusiasm for the project.
+[@anthonyronda](https://github.com/anthonyronda) - Anthony has been active in the Foundry VTT community from the beginning. His unique insights from volunteering as /r/FoundryVTT subreddit moderator, and helping to run the League of Extraordinary Foundry VTT Developers, makes his wealth of experience and knowledge in VTTs unmatched in the professional content creation space. After taking over Old-School Essentials maintainenance for Foundry VTT, he worked together with the diehard fans of OSE on Foundry VTT, reviving the project and achieving over 800 weekly downloads.
